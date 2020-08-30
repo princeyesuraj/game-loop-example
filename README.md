@@ -1,11 +1,6 @@
 # game-loop-example
 
-### Dependencies:
+#### Dependencies:
 
-  gcc compiler
-
-### Build, run and clean
-
-  make
-  make run
-  make clean
+ - gcc compiler
+ - libsdl2
